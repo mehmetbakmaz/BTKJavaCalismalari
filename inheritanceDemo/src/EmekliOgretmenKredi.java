@@ -3,4 +3,6 @@ public class EmekliOgretmenKredi extends OgretmenKrediManager{
     public void hesapla() {
        System.out.println("emekli kredi hesapla");
     }
+    //override methodu eklendi
+    //pushlandı
 }
